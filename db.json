@@ -19,7 +19,8 @@
       "name": "นายจำลอง",
       "desp": "ศาลากลางหมู่บ้านบ้านใหม่สามร้อย#",
       "earea": 1,
-      "eunit": 1
+      "eunit": 1,
+      "imagePath": "assets/bangkok.png"
     },
     {
       "eletype": 33,
@@ -28,7 +29,8 @@
       "name": "นายจำลอง",
       "desp": "ศาลากลางหมู่บ้านบ้านใหม่#",
       "earea": 1,
-      "eunit": 1
+      "eunit": 1,
+      "imagePath": "assets/bangkok.png"
     }
   ]
 }
