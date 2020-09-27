@@ -20,7 +20,8 @@
       "desp": "ศาลากลางหมู่บ้านบ้านใหม่สามร้อย#",
       "earea": 1,
       "eunit": 1,
-      "imagePath": "assets/bangkok.png"
+      "imagePath": "assets/bangkok.png",
+      "cc": "กรุงเทพมหานคร"
     },
     {
       "eletype": 71,
@@ -30,7 +31,8 @@
       "desp": "ศาลากลางหมู่บ้านบ้านใหม่#",
       "earea": 1,
       "eunit": 1,
-      "imagePath": "assets/pattya.png"
+      "imagePath": "assets/pattya.png",
+      "cc": "พัทยา"
     }
   ]
 }
